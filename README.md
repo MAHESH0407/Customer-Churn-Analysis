@@ -73,7 +73,7 @@ Customer-Churn-Analysis/
 
 ### Summary Dashboard
 
-![Summary](images/Summary.png)
+![Summary](images/summary.png)
 
 ---
 
