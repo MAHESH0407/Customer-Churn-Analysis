@@ -69,11 +69,11 @@ Customer-Churn-Analysis/
 
 ### Prediction Dashboard
 
-![Prediction](images/Prediction.PNG)
+![Prediction](images/Churn_predicted.png)
 
 ### Summary Dashboard
 
-![Summary](images/Summary.PNG)
+![Summary](images/Summary.png)
 
 ---
 
